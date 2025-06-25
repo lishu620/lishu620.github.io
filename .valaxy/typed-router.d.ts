@@ -31,6 +31,7 @@ declare module 'vue-router/auto-routes' {
     '/posts/': RouteRecordInfo<'/posts/', '/posts', Record<never, never>, Record<never, never>>,
     '/posts/hello-valaxy': RouteRecordInfo<'/posts/hello-valaxy', '/posts/hello-valaxy', Record<never, never>, Record<never, never>>,
     '/posts/VPS/deploy-new-blog': RouteRecordInfo<'/posts/VPS/deploy-new-blog', '/posts/VPS/deploy-new-blog', Record<never, never>, Record<never, never>>,
+    '/posts/VPS/use-bitwarden': RouteRecordInfo<'/posts/VPS/use-bitwarden', '/posts/VPS/use-bitwarden', Record<never, never>, Record<never, never>>,
     '/tags/': RouteRecordInfo<'/tags/', '/tags', Record<never, never>, Record<never, never>>,
   }
 }
