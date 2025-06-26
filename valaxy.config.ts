@@ -20,6 +20,19 @@ export default defineValaxyConfig<UserThemeConfig>({
       title: '璃殊的小站',
     },
 
+    nav: [
+      {
+        text: '归档',
+        link: '/archives/',
+        icon: 'i-ri-archive-line',
+      },
+      {
+        text: '云笔记',
+        link: 'https://note.mlishu.xyz/',
+        icon: 'i-ri-booklet-line',
+    },
+    ],
+
     pages: [
       {
         name: '我的小伙伴们',
