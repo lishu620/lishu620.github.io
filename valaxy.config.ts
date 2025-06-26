@@ -4,6 +4,10 @@ import { defineValaxyConfig } from 'valaxy'
 // add icons what you will need
 const safelist = [
   'i-ri-home-line',
+  'i-ri-booklet-line',
+  'i-ri-archive-line',
+  'i-ri-genderless-line',
+  'i-ri-women-line',
 ]
 
 /**
@@ -30,7 +34,7 @@ export default defineValaxyConfig<UserThemeConfig>({
         text: '云笔记',
         link: 'https://note.mlishu.xyz/',
         icon: 'i-ri-booklet-line',
-    },
+      },
     ],
 
     pages: [
