@@ -104,8 +104,9 @@ export default defineSiteConfig({
 
   sponsor: {
     enable: true,
-    title: '我很可爱，请给我钱！',
+    title: '我很可爱，请给我钱买糖！',
     methods: [
+      /*
       {
         name: '支付宝',
         url: '',
@@ -123,7 +124,7 @@ export default defineSiteConfig({
         url: '',
         color: '#2DC100',
         icon: 'i-ri-wechat-pay-line',
-      },
+      }, */
     ],
   },
 })
