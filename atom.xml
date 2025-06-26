@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>璃殊的小站</title><subtitle>希望能成为一个有趣的人</subtitle><id>https://www.mlishu.xyz/</id><updated>2025-06-26T17:20:19.135Z</updated><generator uri="https://github.com/KazariEX/zfeed" version="0.2.3">ZFeed</generator><logo>https://www.mlishu.xyz/images/avatar.jpg</logo><icon>https://www.mlishu.xyz/favicon.svg</icon><rights>CC BY-NC-SA 4.0 2025 © 璃殊</rights><link rel="alternate" href="https://www.mlishu.xyz/" /><link rel="self" href="https://www.mlishu.xyz/atom.xml" type="application/atom+xml" /><author><name>璃殊</name><email>i@valaxy.site</email><uri>https://valaxy.site</uri></author><entry><title>如何使用Bitwarden</title><id>https://www.mlishu.xyz/posts/VPS/use-bitwarden</id><link rel="alternate" href="https://www.mlishu.xyz/posts/VPS/use-bitwarden" /><updated>2025-06-18T00:00:00.000Z</updated><published>2025-06-23T00:00:00.000Z</published><content type="html"><![CDATA[<!-- truncate -->
+<p>安装Bitwarden插件</p>
+<p>Bitwarden可以在谷歌浏览器等上使用</p>
+<h3>谷歌浏览器</h3>
+<p>打开[谷歌插件商店](<a href="https://chromewebstor">https://chromewebstor</a></p>
+<br/><p>访问 <a href="https://www.mlishu.xyz/posts/VPS/use-bitwarden" target="_blank">https://www.mlishu.xyz/posts/VPS/use-bitwarden</a> 阅读全文。</p>]]></content><author><name>璃殊</name><email>i@valaxy.site</email><uri>https://valaxy.site</uri></author></entry><entry><title>部署Valaxy博客主页</title><id>https://www.mlishu.xyz/posts/VPS/deploy-new-blog</id><link rel="alternate" href="https://www.mlishu.xyz/posts/VPS/deploy-new-blog" /><updated>2025-06-21T00:00:00.000Z</updated><published>2025-06-22T00:00:00.000Z</published><content type="html"><![CDATA[<p>由于之前使用的是基于 <code>docusaurus</code>的博客，现在准备切换为 <code>valaxy</code>主页，提升阅读性</p>
+<h2>部署valaxy主页</h2>
+<p>[官方文档](<a href="https://github.com/YunYou">https://github.com/YunYou</a></p>
+<br/><p>访问 <a href="https://www.mlishu.xyz/posts/VPS/deploy-new-blog" target="_blank">https://www.mlishu.xyz/posts/VPS/deploy-new-blog</a> 阅读全文。</p>]]></content><author><name>璃殊</name><email>i@valaxy.site</email><uri>https://valaxy.site</uri></author></entry><entry><title>Hello, Valaxy!</title><id>https://www.mlishu.xyz/posts/hello-valaxy</id><link rel="alternate" href="https://www.mlishu.xyz/posts/hello-valaxy" /><updated>2022-04-01T00:00:00.000Z</updated><published>2022-04-01T00:00:00.000Z</published><content type="html"><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="https://www.mlishu.xyz/posts/hello-valaxy" target="_blank">https://www.mlishu.xyz/posts/hello-valaxy</a> 阅读全文。</p>]]></content><author><name>璃殊</name><email>i@valaxy.site</email><uri>https://valaxy.site</uri></author></entry></feed>

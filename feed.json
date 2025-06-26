@@ -1,0 +1,59 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "璃殊的小站",
+  "home_page_url": "https://www.mlishu.xyz/",
+  "feed_url": "https://www.mlishu.xyz/feed.json",
+  "description": "希望能成为一个有趣的人",
+  "icon": "https://www.mlishu.xyz/images/avatar.jpg",
+  "favicon": "https://www.mlishu.xyz/favicon.svg",
+  "authors": [
+    {
+      "name": "璃殊",
+      "url": "https://valaxy.site"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://www.mlishu.xyz/posts/VPS/use-bitwarden",
+      "url": "https://www.mlishu.xyz/posts/VPS/use-bitwarden",
+      "title": "如何使用Bitwarden",
+      "content_html": "<!-- truncate -->\n<p>安装Bitwarden插件</p>\n<p>Bitwarden可以在谷歌浏览器等上使用</p>\n<h3>谷歌浏览器</h3>\n<p>打开[谷歌插件商店](<a href=\"https://chromewebstor\">https://chromewebstor</a></p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/VPS/use-bitwarden\" target=\"_blank\">https://www.mlishu.xyz/posts/VPS/use-bitwarden</a> 阅读全文。</p>",
+      "date_published": "2025-06-23T00:00:00.000Z",
+      "date_modified": "2025-06-18T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/VPS/deploy-new-blog",
+      "url": "https://www.mlishu.xyz/posts/VPS/deploy-new-blog",
+      "title": "部署Valaxy博客主页",
+      "content_html": "<p>由于之前使用的是基于 <code>docusaurus</code>的博客，现在准备切换为 <code>valaxy</code>主页，提升阅读性</p>\n<h2>部署valaxy主页</h2>\n<p>[官方文档](<a href=\"https://github.com/YunYou\">https://github.com/YunYou</a></p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/VPS/deploy-new-blog\" target=\"_blank\">https://www.mlishu.xyz/posts/VPS/deploy-new-blog</a> 阅读全文。</p>",
+      "date_published": "2025-06-22T00:00:00.000Z",
+      "date_modified": "2025-06-21T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/hello-valaxy",
+      "url": "https://www.mlishu.xyz/posts/hello-valaxy",
+      "title": "Hello, Valaxy!",
+      "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/hello-valaxy\" target=\"_blank\">https://www.mlishu.xyz/posts/hello-valaxy</a> 阅读全文。</p>",
+      "date_published": "2022-04-01T00:00:00.000Z",
+      "date_modified": "2022-04-01T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    }
+  ]
+}

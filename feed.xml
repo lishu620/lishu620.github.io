@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>璃殊的小站</title><description>希望能成为一个有趣的人</description><link>https://www.mlishu.xyz/</link><lastBuildDate>Thu, 26 Jun 2025 17:20:19 GMT</lastBuildDate><docs>https://www.rssboard.org/rss-specification</docs><generator>ZFeed 0.2.3 (https://github.com/KazariEX/zfeed)</generator><copyright>CC BY-NC-SA 4.0 2025 © 璃殊</copyright><image><url>https://www.mlishu.xyz/images/avatar.jpg</url><title>璃殊的小站</title><link>https://www.mlishu.xyz/</link></image><atom:link rel="self" href="https://www.mlishu.xyz/feed.xml" type="application/rss+xml" /><item><title>如何使用Bitwarden</title><guid isPermaLink="false">https://www.mlishu.xyz/posts/VPS/use-bitwarden</guid><link>https://www.mlishu.xyz/posts/VPS/use-bitwarden</link><pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate><content:encoded><![CDATA[<!-- truncate -->
+<p>安装Bitwarden插件</p>
+<p>Bitwarden可以在谷歌浏览器等上使用</p>
+<h3>谷歌浏览器</h3>
+<p>打开[谷歌插件商店](<a href="https://chromewebstor">https://chromewebstor</a></p>
+<br/><p>访问 <a href="https://www.mlishu.xyz/posts/VPS/use-bitwarden" target="_blank">https://www.mlishu.xyz/posts/VPS/use-bitwarden</a> 阅读全文。</p>]]></content:encoded><author>i@valaxy.site (璃殊)</author></item><item><title>部署Valaxy博客主页</title><guid isPermaLink="false">https://www.mlishu.xyz/posts/VPS/deploy-new-blog</guid><link>https://www.mlishu.xyz/posts/VPS/deploy-new-blog</link><pubDate>Sun, 22 Jun 2025 00:00:00 GMT</pubDate><content:encoded><![CDATA[<p>由于之前使用的是基于 <code>docusaurus</code>的博客，现在准备切换为 <code>valaxy</code>主页，提升阅读性</p>
+<h2>部署valaxy主页</h2>
+<p>[官方文档](<a href="https://github.com/YunYou">https://github.com/YunYou</a></p>
+<br/><p>访问 <a href="https://www.mlishu.xyz/posts/VPS/deploy-new-blog" target="_blank">https://www.mlishu.xyz/posts/VPS/deploy-new-blog</a> 阅读全文。</p>]]></content:encoded><author>i@valaxy.site (璃殊)</author></item><item><title>Hello, Valaxy!</title><guid isPermaLink="false">https://www.mlishu.xyz/posts/hello-valaxy</guid><link>https://www.mlishu.xyz/posts/hello-valaxy</link><pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate><content:encoded><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="https://www.mlishu.xyz/posts/hello-valaxy" target="_blank">https://www.mlishu.xyz/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded><author>i@valaxy.site (璃殊)</author></item></channel></rss>
