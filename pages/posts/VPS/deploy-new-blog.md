@@ -43,7 +43,7 @@ pnpm create valaxy
 
 进入主页
 
-<img src="http://img.mlishu.xyz/i/2025/06/23/68582d28ab43c.png" alt="1750524717589.png" title="1750524717589.png" />
+<img src="https://img.mlishu.xyz/i/2025/06/23/68582f640045f.png" alt="1750524717589.png" title="1750524717589.png" />
 
 ### 个性化修改
 
