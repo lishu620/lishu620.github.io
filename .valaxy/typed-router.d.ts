@@ -38,7 +38,6 @@ declare module 'vue-router/auto-routes' {
     '/posts/CloudComputer/install-Compute': RouteRecordInfo<'/posts/CloudComputer/install-Compute', '/posts/CloudComputer/install-Compute', Record<never, never>, Record<never, never>>,
     '/posts/CloudComputer/install-connection': RouteRecordInfo<'/posts/CloudComputer/install-connection', '/posts/CloudComputer/install-connection', Record<never, never>, Record<never, never>>,
     '/posts/CloudComputer/install-EXSI': RouteRecordInfo<'/posts/CloudComputer/install-EXSI', '/posts/CloudComputer/install-EXSI', Record<never, never>, Record<never, never>>,
-    '/posts/CloudComputer/install-FusionCNA': RouteRecordInfo<'/posts/CloudComputer/install-FusionCNA', '/posts/CloudComputer/install-FusionCNA', Record<never, never>, Record<never, never>>,
     '/posts/CloudComputer/install-omv': RouteRecordInfo<'/posts/CloudComputer/install-omv', '/posts/CloudComputer/install-omv', Record<never, never>, Record<never, never>>,
     '/posts/CloudComputer/install-VCSA': RouteRecordInfo<'/posts/CloudComputer/install-VCSA', '/posts/CloudComputer/install-VCSA', Record<never, never>, Record<never, never>>,
     '/posts/CloudComputer/install-windows-server': RouteRecordInfo<'/posts/CloudComputer/install-windows-server', '/posts/CloudComputer/install-windows-server', Record<never, never>, Record<never, never>>,
