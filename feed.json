@@ -1,0 +1,311 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "璃殊的小站",
+  "home_page_url": "https://www.mlishu.xyz/",
+  "feed_url": "https://www.mlishu.xyz/feed.json",
+  "description": "希望能成为一个有趣的人",
+  "icon": "https://www.mlishu.xyz/images/avatar.jpg",
+  "favicon": "https://www.mlishu.xyz/favicon.svg",
+  "authors": [
+    {
+      "name": "璃殊",
+      "url": "https://valaxy.site"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://www.mlishu.xyz/posts/Troubles/安装FNOS",
+      "url": "https://www.mlishu.xyz/posts/Troubles/安装FNOS",
+      "title": "安装FN-NAS-OS",
+      "content_html": "<!-- truncate -->\n<p>点击跳转<a href=\"https://help.fnnas.com/articles/fnosV1/start/install-os.md\">官方文档</a></p>\n<h2>1. 下载安</h2>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/Troubles/安装FNOS\" target=\"_blank\">https://www.mlishu.xyz/posts/Troubles/安装FNOS</a> 阅读全文。</p>",
+      "date_published": "2025-07-01T07:52:01.595Z",
+      "date_modified": "2025-03-13T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/CloudComputer/Fusion-make-computer",
+      "url": "https://www.mlishu.xyz/posts/CloudComputer/Fusion-make-computer",
+      "title": "华为 Fusion 模板机配置（Windows）",
+      "content_html": "<p>华为 Fusion 模板机配置（Windows）</p>\n<!-- truncate -->\n<blockquote>\n<p>仅支持Legacy启动方式， <strong>不支持UEFI</strong> 。<br>\n使用UEFI启动会导致在安装Agent后卡在</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/CloudComputer/Fusion-make-computer\" target=\"_blank\">https://www.mlishu.xyz/posts/CloudComputer/Fusion-make-computer</a> 阅读全文。</p>",
+      "date_published": "2025-07-01T07:52:01.595Z",
+      "date_modified": "2025-04-02T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/CloudComputer/HorizonAgent",
+      "url": "https://www.mlishu.xyz/posts/CloudComputer/HorizonAgent",
+      "title": "【Horizon】第6章-安装Agent服务器",
+      "content_html": "<p>【Horizon】第6章-安装Agent服务器</p>\n<!-- truncate -->\n<h2>VDI终端主机配置</h2>\n<p>Horizon-Agent需要在终端VDI中安装</p>\n<p>VDI中需要安装 `VMware</p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/CloudComputer/HorizonAgent\" target=\"_blank\">https://www.mlishu.xyz/posts/CloudComputer/HorizonAgent</a> 阅读全文。</p>",
+      "date_published": "2025-07-01T07:52:01.595Z",
+      "date_modified": "2025-03-27T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/CloudComputer/VCSA-to-AD",
+      "url": "https://www.mlishu.xyz/posts/CloudComputer/VCSA-to-AD",
+      "title": "【VMware】VCSA对接WindowsAD域管理",
+      "content_html": "<!-- truncate -->\n<p>提示</p>\n<p>因为我需要使用WindowsAD统一管理所有的账号，因此选择将VCSA也加入WindowsAD域控中进行统一管理</p>\n<h2>前提条件</h2>\n<p>在**VMware*</p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/CloudComputer/VCSA-to-AD\" target=\"_blank\">https://www.mlishu.xyz/posts/CloudComputer/VCSA-to-AD</a> 阅读全文。</p>",
+      "date_published": "2025-07-01T07:52:01.595Z",
+      "date_modified": "2025-04-23T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/CloudComputer/horizon-ad-dns",
+      "url": "https://www.mlishu.xyz/posts/CloudComputer/horizon-ad-dns",
+      "title": "【Horizon】第2章-AD和DNS配置",
+      "content_html": "<p>【Horizon】第2章-AD和DNS配置</p>\n<!-- truncate -->\n<p>首先需要安装Windows Server系统，可以通过下面的链接访问</p>\n<p>[配置Windows Server 2022</p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/CloudComputer/horizon-ad-dns\" target=\"_blank\">https://www.mlishu.xyz/posts/CloudComputer/horizon-ad-dns</a> 阅读全文。</p>",
+      "date_published": "2025-07-01T07:52:01.595Z",
+      "date_modified": "2025-03-22T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/CloudComputer/horizon-ad",
+      "url": "https://www.mlishu.xyz/posts/CloudComputer/horizon-ad",
+      "title": "【Horizon】第3章-配置Windows AD",
+      "content_html": "<p>【Horizon】第三章-配置Windows AD</p>\n<!-- truncate -->\n<p>前提条件：<a href=\"/blog/horizon-addns\">【Horizon】第2章-AD和DNS配置</a></p>\n<p>选择</p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/CloudComputer/horizon-ad\" target=\"_blank\">https://www.mlishu.xyz/posts/CloudComputer/horizon-ad</a> 阅读全文。</p>",
+      "date_published": "2025-07-01T07:52:01.595Z",
+      "date_modified": "2025-03-22T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/CloudComputer/horizon-insall-sql",
+      "url": "https://www.mlishu.xyz/posts/CloudComputer/horizon-insall-sql",
+      "title": "【Horizon】第4章-搭建SQL",
+      "content_html": "<p>【Horizon】第4章-搭建SQL</p>\n<!-- truncate -->\n<p>配置一个专用SQL数据库服务器 <code>MW SQL Server</code></p>\n<h2>加入AD域管理</h2>\n<p>在 `MW SQL Server</p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/CloudComputer/horizon-insall-sql\" target=\"_blank\">https://www.mlishu.xyz/posts/CloudComputer/horizon-insall-sql</a> 阅读全文。</p>",
+      "date_published": "2025-07-01T07:52:01.595Z",
+      "date_modified": "2025-03-24T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/CloudComputer/horizon-install-composer",
+      "url": "https://www.mlishu.xyz/posts/CloudComputer/horizon-install-composer",
+      "title": "【Horizon】第5章-搭建Composer组件",
+      "content_html": "<p>【Horizon】第5章-搭建Composer组件</p>\n<!-- truncate -->\n<p>composer可以解决SID，机器名字冲突的问题，更重要的是可以节约磁盘空间，发布的所有系统都可以访问一块</p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/CloudComputer/horizon-install-composer\" target=\"_blank\">https://www.mlishu.xyz/posts/CloudComputer/horizon-install-composer</a> 阅读全文。</p>",
+      "date_published": "2025-07-01T07:52:01.595Z",
+      "date_modified": "2025-03-26T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/CloudComputer/install-Compute",
+      "url": "https://www.mlishu.xyz/posts/CloudComputer/install-Compute",
+      "title": "华为 FusionCompute 底层安装",
+      "content_html": "<p>华为 FusionCompute 底层安装</p>\n<!-- truncate -->\n<h2>配置要求</h2>\n<p>CPU：16X</p>\n<p>DIMM：16GiB</p>\n<p>Disk：120GiB</p>\n<p>系统镜像版本：FusionCo</p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/CloudComputer/install-Compute\" target=\"_blank\">https://www.mlishu.xyz/posts/CloudComputer/install-Compute</a> 阅读全文。</p>",
+      "date_published": "2025-07-01T07:52:01.595Z",
+      "date_modified": "2025-03-27T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/CloudComputer/install-EXSI",
+      "url": "https://www.mlishu.xyz/posts/CloudComputer/install-EXSI",
+      "title": "【VMware】安装EXSI8底层系统",
+      "content_html": "<!-- truncate -->\n<p>准备工作</p>\n<p>EXSI版本：<code>VMware-VMvisor-Installer-8.0U2-22380479.x86_64.iso</code></p>\n<p>主机：`VMware Wor</p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/CloudComputer/install-EXSI\" target=\"_blank\">https://www.mlishu.xyz/posts/CloudComputer/install-EXSI</a> 阅读全文。</p>",
+      "date_published": "2025-07-01T07:52:01.595Z",
+      "date_modified": "2025-03-21T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/CloudComputer/install-VCSA",
+      "url": "https://www.mlishu.xyz/posts/CloudComputer/install-VCSA",
+      "title": "【VMware】安装VCSA管理系统",
+      "content_html": "<!-- truncate -->\n<p>准备操作</p>\n<p>由于 <code>VCSA控制器</code>必须安装在EXSI主机上，因此必须[安装EXSI底层系统](/blog/Install-EXSI8-underlying-sy</p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/CloudComputer/install-VCSA\" target=\"_blank\">https://www.mlishu.xyz/posts/CloudComputer/install-VCSA</a> 阅读全文。</p>",
+      "date_published": "2025-07-01T07:52:01.595Z",
+      "date_modified": "2025-03-19T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/CloudComputer/install-connection",
+      "url": "https://www.mlishu.xyz/posts/CloudComputer/install-connection",
+      "title": "【Horizon】第5章-安装Connection服务器",
+      "content_html": "<p>【Horizon】第5章-安装Connection服务器</p>\n<!-- truncate -->\n<p>配置主从控制器</p>\n<h2>安装软件</h2>\n<h3>配置主服务器</h3>\n<p>这里我们要先更换为主AD域用户安装</p>\n<p>![</p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/CloudComputer/install-connection\" target=\"_blank\">https://www.mlishu.xyz/posts/CloudComputer/install-connection</a> 阅读全文。</p>",
+      "date_published": "2025-07-01T07:52:01.595Z",
+      "date_modified": "2025-03-26T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/CloudComputer/install-omv",
+      "url": "https://www.mlishu.xyz/posts/CloudComputer/install-omv",
+      "title": "搭建OMV存储",
+      "content_html": "<p>搭建OMV存储</p>\n<!-- truncate -->\n<h2>系统安装</h2>\n<p>直接 <code>Install</code>下一步即可</p>\n<p>![1742716047447](<a href=\"https://www.mlishu.xyz/imag\">https://www.mlishu.xyz/imag</a></p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/CloudComputer/install-omv\" target=\"_blank\">https://www.mlishu.xyz/posts/CloudComputer/install-omv</a> 阅读全文。</p>",
+      "date_published": "2025-07-01T07:52:01.595Z",
+      "date_modified": "2025-03-23T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/CloudComputer/install-windows-server",
+      "url": "https://www.mlishu.xyz/posts/CloudComputer/install-windows-server",
+      "title": "配置Windows Server 2022",
+      "content_html": "<!-- truncate -->\n<blockquote>\n<p>系统版本：<code>Windows Server 2022</code></p>\n</blockquote>\n<h3>1.配置管理员密码</h3>\n<p>使用ISO镜像安装完成后，第一次打开电脑便会进入这个界面</p>\n<p>按照 `Mi</p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/CloudComputer/install-windows-server\" target=\"_blank\">https://www.mlishu.xyz/posts/CloudComputer/install-windows-server</a> 阅读全文。</p>",
+      "date_published": "2025-07-01T07:52:01.595Z",
+      "date_modified": "2025-03-19T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/CloudComputer/installFusionAccess",
+      "url": "https://www.mlishu.xyz/posts/CloudComputer/installFusionAccess",
+      "title": "华为 FusionAccess 配置部署",
+      "content_html": "<p>华为 FusionAccess 配置部署</p>\n<!-- truncate -->\n<p>首先需要部署FusionCompute</p>\n<h2>安装Access</h2>\n<p>在Fusion Compute中创建一个新的虚拟机</p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/CloudComputer/installFusionAccess\" target=\"_blank\">https://www.mlishu.xyz/posts/CloudComputer/installFusionAccess</a> 阅读全文。</p>",
+      "date_published": "2025-07-01T07:52:01.595Z",
+      "date_modified": "2025-03-28T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/CloudComputer/what-is horizon",
+      "url": "https://www.mlishu.xyz/posts/CloudComputer/what-is horizon",
+      "title": "【Horizon】第1章-环境介绍",
+      "content_html": "<p>[Horizon]第1章-环境介绍</p>\n<!-- truncate -->\n<h2>提示</h2>\n<p>不要在域控制器上安装Horizon全部组件</p>\n<h2>拓扑图</h2>\n<p>![1742722284619](https:/</p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/CloudComputer/what-is horizon\" target=\"_blank\">https://www.mlishu.xyz/posts/CloudComputer/what-is horizon</a> 阅读全文。</p>",
+      "date_published": "2025-07-01T07:52:01.595Z",
+      "date_modified": "2025-03-21T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/CloudComputer/what-is-Fusion",
+      "url": "https://www.mlishu.xyz/posts/CloudComputer/what-is-Fusion",
+      "title": "华为 Fusion 环境介绍",
+      "content_html": "<p>华为 Fusion 环境介绍</p>\n<!-- truncate -->\n<h2>子主题</h2>\n<h2>规划表</h2>\n<p>| 主机名     | 域名 | 内网IP     | 外网IP       |<br>\n| ------</p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/CloudComputer/what-is-Fusion\" target=\"_blank\">https://www.mlishu.xyz/posts/CloudComputer/what-is-Fusion</a> 阅读全文。</p>",
+      "date_published": "2025-07-01T07:52:01.595Z",
+      "date_modified": "2025-03-28T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/Troubles/try-fydeos",
+      "url": "https://www.mlishu.xyz/posts/Troubles/try-fydeos",
+      "title": "体验FydeOS",
+      "content_html": "<p>安装系统</p>\n<p>在完成系统下载后，进入VMware，选择导入ova包</p>\n<p>![1746539112920](<a href=\"https://www.mlishu.xyz/images/blog/Troubles/try-f\">https://www.mlishu.xyz/images/blog/Troubles/try-f</a></p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/Troubles/try-fydeos\" target=\"_blank\">https://www.mlishu.xyz/posts/Troubles/try-fydeos</a> 阅读全文。</p>",
+      "date_published": "2025-06-30T00:00:00.000Z",
+      "date_modified": "2025-05-06T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/VPS/use-bitwarden",
+      "url": "https://www.mlishu.xyz/posts/VPS/use-bitwarden",
+      "title": "如何使用Bitwarden",
+      "content_html": "<!-- truncate -->\n<p>安装Bitwarden插件</p>\n<p>Bitwarden可以在谷歌浏览器等上使用</p>\n<h3>谷歌浏览器</h3>\n<p>打开[谷歌插件商店](<a href=\"https://chromewebstor\">https://chromewebstor</a></p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/VPS/use-bitwarden\" target=\"_blank\">https://www.mlishu.xyz/posts/VPS/use-bitwarden</a> 阅读全文。</p>",
+      "date_published": "2025-06-23T00:00:00.000Z",
+      "date_modified": "2025-06-18T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/VPS/deploy-new-blog",
+      "url": "https://www.mlishu.xyz/posts/VPS/deploy-new-blog",
+      "title": "部署Valaxy博客主页",
+      "content_html": "<p>由于之前使用的是基于 <code>docusaurus</code>的博客，现在准备切换为 <code>valaxy</code>主页，提升阅读性</p>\n<h2>部署valaxy主页</h2>\n<p>[官方文档](<a href=\"https://github.com/YunYou\">https://github.com/YunYou</a></p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/VPS/deploy-new-blog\" target=\"_blank\">https://www.mlishu.xyz/posts/VPS/deploy-new-blog</a> 阅读全文。</p>",
+      "date_published": "2025-06-22T00:00:00.000Z",
+      "date_modified": "2025-06-21T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://www.mlishu.xyz/posts/hello-valaxy",
+      "url": "https://www.mlishu.xyz/posts/hello-valaxy",
+      "title": "Hello, Valaxy!",
+      "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://www.mlishu.xyz/posts/hello-valaxy\" target=\"_blank\">https://www.mlishu.xyz/posts/hello-valaxy</a> 阅读全文。</p>",
+      "date_published": "2022-04-01T00:00:00.000Z",
+      "date_modified": "2022-04-01T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "璃殊",
+          "url": "https://valaxy.site"
+        }
+      ]
+    }
+  ]
+}
