@@ -47,6 +47,7 @@ declare module 'vue-router/auto-routes' {
     '/posts/CloudComputer/what-is-Fusion': RouteRecordInfo<'/posts/CloudComputer/what-is-Fusion', '/posts/CloudComputer/what-is-Fusion', Record<never, never>, Record<never, never>>,
     '/posts/hello-valaxy': RouteRecordInfo<'/posts/hello-valaxy', '/posts/hello-valaxy', Record<never, never>, Record<never, never>>,
     '/posts/Troubles/安装FNOS': RouteRecordInfo<'/posts/Troubles/安装FNOS', '/posts/Troubles/安装FNOS', Record<never, never>, Record<never, never>>,
+    '/posts/Troubles/test': RouteRecordInfo<'/posts/Troubles/test', '/posts/Troubles/test', Record<never, never>, Record<never, never>>,
     '/posts/Troubles/try-fydeos': RouteRecordInfo<'/posts/Troubles/try-fydeos', '/posts/Troubles/try-fydeos', Record<never, never>, Record<never, never>>,
     '/posts/VPS/deploy-new-blog': RouteRecordInfo<'/posts/VPS/deploy-new-blog', '/posts/VPS/deploy-new-blog', Record<never, never>, Record<never, never>>,
     '/posts/VPS/use-bitwarden': RouteRecordInfo<'/posts/VPS/use-bitwarden', '/posts/VPS/use-bitwarden', Record<never, never>, Record<never, never>>,
