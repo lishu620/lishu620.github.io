@@ -1,6 +1,6 @@
 ---
 title: 使用L2TP作为Windows VPN接入网络
-date: 2025-0
+date: 2025-06-22
 updated: 2025-06-22
 categories: 璃殊折腾记
 tags:
