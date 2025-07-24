@@ -29,7 +29,7 @@ declare module 'vue-router/auto-routes' {
     '/links/': RouteRecordInfo<'/links/', '/links', Record<never, never>, Record<never, never>>,
     '/page/[page]': RouteRecordInfo<'/page/[page]', '/page/:page', { page: ParamValue<true> }, { page: ParamValue<false> }>,
     '/posts/': RouteRecordInfo<'/posts/', '/posts', Record<never, never>, Record<never, never>>,
-    '/posts/2025.8cop': RouteRecordInfo<'/posts/2025.8cop', '/posts/2025/8cop', Record<never, never>, Record<never, never>>,
+    '/posts/2025.8ComputerRecommendation': RouteRecordInfo<'/posts/2025.8ComputerRecommendation', '/posts/2025/8ComputerRecommendation', Record<never, never>, Record<never, never>>,
     '/posts/CloudComputer/Fusion-make-computer': RouteRecordInfo<'/posts/CloudComputer/Fusion-make-computer', '/posts/CloudComputer/Fusion-make-computer', Record<never, never>, Record<never, never>>,
     '/posts/CloudComputer/horizon-ad': RouteRecordInfo<'/posts/CloudComputer/horizon-ad', '/posts/CloudComputer/horizon-ad', Record<never, never>, Record<never, never>>,
     '/posts/CloudComputer/horizon-ad-dns': RouteRecordInfo<'/posts/CloudComputer/horizon-ad-dns', '/posts/CloudComputer/horizon-ad-dns', Record<never, never>, Record<never, never>>,

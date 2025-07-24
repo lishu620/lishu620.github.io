@@ -5,6 +5,7 @@ import { onMounted, ref, watch } from 'vue'
 const props = defineProps<{
   name: string
   values: number[]
+  pric: string
   pros: string
   cons: string
 }>()
@@ -26,7 +27,7 @@ const renderChart = () => {
         { name: '质感', max: 100 },
         { name: '性价比', max: 100 },
         { name: '性能', max: 100 },
-        { name: '散热', max: 100 },
+        { name: '拓展性', max: 100 },
         { name: '售后', max: 100 },
       ],
       radius: 60,
@@ -63,6 +64,7 @@ watch(() => props.values, () => {
     <div class="chart-box" ref="chartRef" />
     <div class="info">
       <div class="title">{{ props.name }}</div>
+      <div class="line"><span class="label">参考价格：</span>{{ props.pric }}</div>
       <div class="line"><span class="label">优点：</span>{{ props.pros }}</div>
       <div class="line"><span class="label">缺点：</span>{{ props.cons }}</div>
     </div>
