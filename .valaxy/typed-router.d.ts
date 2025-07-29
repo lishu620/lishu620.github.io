@@ -46,6 +46,7 @@ declare module 'vue-router/auto-routes' {
     '/posts/CloudComputer/VCSA-to-AD': RouteRecordInfo<'/posts/CloudComputer/VCSA-to-AD', '/posts/CloudComputer/VCSA-to-AD', Record<never, never>, Record<never, never>>,
     '/posts/CloudComputer/what-is horizon': RouteRecordInfo<'/posts/CloudComputer/what-is horizon', '/posts/CloudComputer/what-is horizon', Record<never, never>, Record<never, never>>,
     '/posts/CloudComputer/what-is-Fusion': RouteRecordInfo<'/posts/CloudComputer/what-is-Fusion', '/posts/CloudComputer/what-is-Fusion', Record<never, never>, Record<never, never>>,
+    '/posts/Hadoop/buildHadoopSystem': RouteRecordInfo<'/posts/Hadoop/buildHadoopSystem', '/posts/Hadoop/buildHadoopSystem', Record<never, never>, Record<never, never>>,
     '/posts/L2TPVPN': RouteRecordInfo<'/posts/L2TPVPN', '/posts/L2TPVPN', Record<never, never>, Record<never, never>>,
     '/posts/Troubles/安装FNOS': RouteRecordInfo<'/posts/Troubles/安装FNOS', '/posts/Troubles/安装FNOS', Record<never, never>, Record<never, never>>,
     '/posts/Troubles/try-fydeos': RouteRecordInfo<'/posts/Troubles/try-fydeos', '/posts/Troubles/try-fydeos', Record<never, never>, Record<never, never>>,
