@@ -1,7 +1,7 @@
 {
-  "name": "m1ishu-new-www",
+  "name": "mlishu.site",
   "type": "module",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "build": "npm run build:ssg",
