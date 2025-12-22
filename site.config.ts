@@ -6,7 +6,7 @@ export default defineSiteConfig({
   subtitle: 'All at sea.',
   description: '希望能成为一个有趣的人',
   author: {
-    name: '璃殊',
+    name: '璃殊m1ishu',
     avatar: '/images/avatar.jpg',
     status: {
       emoji: '😣',
